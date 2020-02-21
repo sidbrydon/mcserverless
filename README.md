@@ -7,4 +7,8 @@ It does not talk about the strategy of using multicloud, this is an ongoing conv
 
 This is purely meant as a technical feasability study to understand where the complexity sits.
 
+The LinkedIn post can be referenced here:
+
+
+
 
